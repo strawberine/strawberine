@@ -24,6 +24,6 @@ Most of the data that I've handled were collected from research projects that I 
 
 ### 🍓strawberine's coding journey
 <details>
-  <summary>read me</summary>
+  <summary>the journey of how a sociology major picked up Python</summary>
   I've always been fascinated with research and data processing! A true nerd, indeed! As much as I liked using MS Excel, Google Sheets and PSPP (i.e., SPSS' little sister)     statistical software, I knew that there must be another way for me to code data. Given the fact that I am a sociology major, I deal with data... lots of data, and some platforms struggle with processing large amounts of data. Then, I found Python (well... technically, my boyfriend showed it to me), and I was fascinated by how things work. Knowing my goals, I definitely had my work cut out for me. This was going to be no easy feat, especially as a sociology major With zero experience in coding. However, I was determined... and now here we are!  
 </details>
