@@ -9,7 +9,7 @@ Most of the data that I've handled were collected from research projects that I 
 - Migration Trends and Data
 - Raw Data from Research 
 
-## 🌐 Socials:
+## 🌐 Main Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/strawber.rine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erine-raeane-carreon-15005628b/) 
 
 # 💻 Tech Stack:
