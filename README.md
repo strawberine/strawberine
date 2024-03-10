@@ -4,7 +4,7 @@ Hi! I'm Erine! A sociology major who's dipping her toes into the field of data s
 - A beginner Data Scientist
 
 # 🤓 Me + Data:
-Most of the data that I've handled were collected from research projects that I did for major subjects
+Most of the data that I've handled were collected from research projects that I did for major subjects! Here are some of my most recent ones...
 - Socioeconomic Data
 - Migration Trends and Data
 - Raw Data from Research 
