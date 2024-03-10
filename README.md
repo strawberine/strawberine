@@ -22,4 +22,6 @@ Most of the data that I've handled were collected from research projects that I 
 ---
 [![](https://visitcount.itsvg.in/api?id=strawberine&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+  <summary>strawberine's coding journey</summary>
+</details>
