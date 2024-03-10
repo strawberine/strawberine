@@ -1,4 +1,4 @@
-# 🍰 Slice of Me:
+# 🍰 A slice of Me:
 Hi! I'm Erine! A sociology major who's dipping her toes into the field of data science
 - Current Level of Education: 3rd Year Sociology student from De La Salle University - Manila<br>
 - A beginner Data Scientist
