@@ -4,7 +4,10 @@ Hi! I'm Erine! A sociology major who's dipping her toes into the field of data s
 - A beginner Data Scientist
 
 # 🤓 Me + Data:
-Most of the data that I've handled were collected from research projects that I did for major subjects<br>
+Most of the data that I've handled were collected from research projects that I did for major subjects
+- Socioeconomic Data
+- Migration Trends and Data
+- Raw Data from Research 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/strawber.rine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Erine Raeane Carreon) 
