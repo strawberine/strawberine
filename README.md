@@ -1,8 +1,11 @@
-# Your resident sociology girly with data science curiosity:
-Hi! I'm Erine, an aspiring data scientist with strong domain knowledge in Sociology
-- Current Level of Education: 3rd Year Sociology student from De La Salle University - Manila<br>
-- A beginner Data Scientist
-
+# <b>Your resident sociology girly with data science curiosity</b>
+Hello World! I'm Erine Raeane, an aspiring data scientist based in Manila, Philippines, with domain knowledge in Sociology and Policy
+- <b>EDUCATION</b>: 4th Year Student with a Bachelor of Arts in Sociology from De La Salle University - Manila
+  - <i>Expected Graduation: June 2025</i>
+  - <i>Magna Cum Laude Standing</i>
+- <b>WORK EXPERIENCE</b>:
+  - <i><b>SEPT 2024 - DEC 2024</b>: Monitoring and Evaluations Intern, GenerationHOPE Inc.</i>
+  - <i><b>MAY 2024 - JULY 2024</b>: Student Intern, DAI Global LLC., - USAID Safe Water Philippines.</i>
 # 🤓 Me + Data:
 Most of the data that I've handled were collected from research projects that I did for major subjects! Here are some of my most recent ones...
 - Socioeconomic Data
