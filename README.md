@@ -1,5 +1,5 @@
-# 🍰 A slice of Me:
-Hi! I'm Erine! A sociology major who's dipping her toes into the field of data science
+# Your resident sociology girly with data science curiosity:
+Hi! I'm Erine, an aspiring data scientist with strong domain knowledge in Sociology
 - Current Level of Education: 3rd Year Sociology student from De La Salle University - Manila<br>
 - A beginner Data Scientist
 
