@@ -4,6 +4,7 @@ Hello World! I'm Erine Raeane, an aspiring data scientist based in Manila, Phili
   - <i>Expected Graduation: June 2025</i>
   - <i>Magna Cum Laude Standing</i>
 - <b>WORK EXPERIENCE</b>:
+  - <b><i>FEB 2025 - Present</i></b>: Research Assistant, La Salle Institute of Governance
   - <i><b>SEPT 2024 - DEC 2024</b>: Monitoring and Evaluations Intern, GenerationHOPE Inc.</i>
   - <i><b>MAY 2024 - JULY 2024</b>: Student Intern, DAI Global LLC., - USAID Safe Water Philippines</i>
   - <i><b>NOV 2023 - JAN 2024</b>: Data Transcriber, DLSU Social Development Research Center</i>
