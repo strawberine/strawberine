@@ -12,7 +12,7 @@ Hello World! I'm Erine Raeane, an aspiring data scientist based in Manila, Phili
 ### Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/strawber.rine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erine-raeane-carreon-15005628b/) 
 # <b>Sociology as a Domain Knowledge</b>
-<i><b>SPECIALIZATION TAGS</b>: Health Social Sciences, Medical Sociology</i>
+<i><b>SPECIALIZATION TAGS</b>: Social Data Science</i>
 <p align = "justify">Sociology aims to understand or study society according to social dynamics, social interactions, and social behaviors that cause and create consequences. My relationship and interest with this disciplines rooted in my general curiosity towards people. We, as a species, are very interesting and complicated. We act upon certain things and attempt avoid certain pains. This interest brewed into an establishment of purpose, I wanted to help preserve or revive the social harmony in society. And now, here we are... exploring the different sociological theories and concepts (<i>classic and contemporary</i>) through data science-driven methods. </p> 
 <p align = "justify"><b>WHAT DID I LEARN?</b> We are all nothing but semi-unique datapoints on a plot called life. The successes, downfalls, and pitfalls can be predicted much like a time-series model. And yet, society still remains as complex as ever</p>
 
